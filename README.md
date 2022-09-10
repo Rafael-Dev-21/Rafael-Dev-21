@@ -61,4 +61,8 @@ I am a developer from :brazil:Brazil:brazil:.
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Como fazer um app de lista de tarefas em Javascript puro](http://example.org/post/como-fazer-um-app-de-lista-de-tarefas-em-javascript-puro/)
+- [números estranhos](http://example.org/post/2021-11-02-numeros/)
+- [O Jogo Cobra foi refatorado!](http://example.org/post/2021-10-06-jogo-cobra+refatorado/)
+- [Eu fiz um jogo da cobrinha!](http://example.org/post/2021-10-05-jogo-da-cobrinha/)
 <!-- BLOG-POST-LIST:END -->
