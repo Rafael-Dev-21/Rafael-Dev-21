@@ -27,7 +27,7 @@ I am a developer from :brazil:Brazil:brazil:.
 
 - :telescope: I'm looking for jobs.
 
-- :seedling: I'm designing a new programming language.
+- :seedling: I'm developing a game.
 
 - :zap: In my free time, I read articles about computer science and math.
 
