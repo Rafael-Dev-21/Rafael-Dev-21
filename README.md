@@ -62,7 +62,5 @@ I am a developer from :brazil:Brazil:brazil:.
 
 <!-- BLOG-POST-LIST:START -->
 - [Como fazer um app de lista de tarefas em Javascript puro](https://rboladao.netlify.app/post/como-fazer-um-app-de-lista-de-tarefas-em-javascript-puro/)
-- [números estranhos](https://rboladao.netlify.app/post/2021-11-02-numeros/)
-- [O Jogo Cobra foi refatorado!](https://rboladao.netlify.app/post/2021-10-06-jogo-cobra+refatorado/)
-- [Eu fiz um jogo da cobrinha!](https://rboladao.netlify.app/post/2021-10-05-jogo-da-cobrinha/)
+- [Sobre](https://rboladao.netlify.app/sobre/)
 <!-- BLOG-POST-LIST:END -->
