@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://rboladao.netlify.app/index.xml"
+          feed_list: "https://rafael-dev-21.gitub.io/feed.xml"

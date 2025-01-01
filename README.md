@@ -1,6 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp" width="100"/>
-</div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/victor-rafael-pereira-alves-2830ab226">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,32 +8,29 @@
   </a>
   <!-- img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/ -->
 </div>
-<img src="https://komarev.com/ghpvc/?username=Rafael-Dev-21&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
-### :man_technologist: About Me :
+### About Me :
 
-I am a developer from :brazil:Brazil:brazil:.
+I am a developer from Brazil.
 
-- :telescope: I'm looking for jobs.
+- I'm looking for learning new ways of programming.
 
-- :seedling: I'm developing a game.
+- I'm developing some games.
 
-- :zap: In my free time, I read articles about computer science and math.
+- I'm learning prolog and lisp (common lisp and scheme).
 
-- :mailbox: Contact me here: [![Linkedin Badge](https://img.shields.io/badge/-victor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rafael-pereira-alves-2830ab226)
+- In my free time, I read books and articles about computer science, game development and mathematics.
+
+- Contact me here: [![Linkedin Badge](https://img.shields.io/badge/-victor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rafael-pereira-alves-2830ab226)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -43,6 +38,7 @@ I am a developer from :brazil:Brazil:brazil:.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" title="SWI-Prolog" alt="SWI-Prolog" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" title="Hugo" alt="Hugo" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -50,7 +46,7 @@ I am a developer from :brazil:Brazil:brazil:.
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rafael-Dev-21&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -58,9 +54,7 @@ I am a developer from :brazil:Brazil:brazil:.
 
 ---
 
-### :writing_hand: Blog Posts :
+### Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como fazer um app de lista de tarefas em Javascript puro](https://rboladao.netlify.app/post/como-fazer-um-app-de-lista-de-tarefas-em-javascript-puro/)
-- [Sobre](https://rboladao.netlify.app/sobre/)
 <!-- BLOG-POST-LIST:END -->
