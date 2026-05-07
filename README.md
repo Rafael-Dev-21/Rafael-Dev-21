@@ -52,6 +52,8 @@ I am a developer from Brazil.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Dev-21)](https://github.com/anuraghazra/github-readme-stats)
 
+![Language Stats](stats/leaderboard_by_lines.png)
+
 ---
 
 ### Blog Posts :
