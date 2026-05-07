@@ -54,7 +54,7 @@ I am a developer from Brazil.
 
 ![Language Stats](stats/leaderboard_by_bytes.png)
 
-![Language Stats](stats/leaderboard_by_repo.png)
+![Language Stats](stats/leaderboard_by_repos.png)
 
 ![Language Stats](stats/leaderboard_by_weighted.png)
 
